@@ -75,8 +75,6 @@ class Game{
         text(allPlayers[plr].name ,x - 50,y+25);
 
         fill("white");
-        text(allPlayers.player1.name + "'s score:" + allPlayers.player1.score, 50, 50);
-        text(allPlayers.player2.name + "'s score:" + allPlayers.player2.score, 50, 100);
                   
     }
                     
